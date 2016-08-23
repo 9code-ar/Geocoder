@@ -8,9 +8,9 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
-use Geocoder\Geocoder;
+use _9Code\Geocoder\Geocoder;
 
 /**
  * @author William Durand <william.durand1@gmail.com>

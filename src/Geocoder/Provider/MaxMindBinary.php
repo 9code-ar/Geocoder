@@ -8,12 +8,12 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
-use Geocoder\Exception\FunctionNotFound;
-use Geocoder\Exception\InvalidArgument;
-use Geocoder\Exception\NoResult;
-use Geocoder\Exception\UnsupportedOperation;
+use _9Code\Geocoder\Exception\FunctionNotFound;
+use _9Code\Geocoder\Exception\InvalidArgument;
+use _9Code\Geocoder\Exception\NoResult;
+use _9Code\Geocoder\Exception\UnsupportedOperation;
 
 class MaxMindBinary extends AbstractProvider implements Provider
 {

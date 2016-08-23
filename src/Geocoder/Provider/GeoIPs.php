@@ -8,13 +8,13 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
-use Geocoder\Exception\InvalidArgument;
-use Geocoder\Exception\InvalidCredentials;
-use Geocoder\Exception\NoResult;
-use Geocoder\Exception\QuotaExceeded;
-use Geocoder\Exception\UnsupportedOperation;
+use _9Code\Geocoder\Exception\InvalidArgument;
+use _9Code\Geocoder\Exception\InvalidCredentials;
+use _9Code\Geocoder\Exception\NoResult;
+use _9Code\Geocoder\Exception\QuotaExceeded;
+use _9Code\Geocoder\Exception\UnsupportedOperation;
 use Http\Client\HttpClient;
 
 /**

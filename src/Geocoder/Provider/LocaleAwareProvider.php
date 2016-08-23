@@ -8,7 +8,7 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
 interface LocaleAwareProvider extends Provider
 {

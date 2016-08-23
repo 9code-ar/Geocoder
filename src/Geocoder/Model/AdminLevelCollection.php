@@ -1,8 +1,8 @@
 <?php
 
-namespace Geocoder\Model;
+namespace _9Code\Geocoder\Model;
 
-use Geocoder\Exception\InvalidArgument;
+use _9Code\Geocoder\Exception\InvalidArgument;
 
 /**
  * @author Giorgio Premi <giosh94mhz@gmail.com>

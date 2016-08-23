@@ -8,9 +8,9 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Dumper;
+namespace _9Code\Geocoder\Dumper;
 
-use Geocoder\Model\Address;
+use _9Code\Geocoder\Model\Address;
 
 /**
  * @author Jan Sorgalla <jsorgalla@googlemail.com>

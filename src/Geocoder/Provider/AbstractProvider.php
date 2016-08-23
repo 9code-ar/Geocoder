@@ -8,10 +8,10 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
-use Geocoder\Geocoder;
-use Geocoder\Model\AddressFactory;
+use _9Code\Geocoder\Geocoder;
+use _9Code\Geocoder\Model\AddressFactory;
 
 /**
  * @author William Durand <william.durand1@gmail.com>

@@ -8,12 +8,12 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
 use GeoIp2\Exception\AddressNotFoundException;
-use Geocoder\Adapter\GeoIP2Adapter;
-use Geocoder\Exception\NoResult;
-use Geocoder\Exception\UnsupportedOperation;
+use _9Code\Geocoder\Adapter\GeoIP2Adapter;
+use _9Code\Geocoder\Exception\NoResult;
+use _9Code\Geocoder\Exception\UnsupportedOperation;
 
 /**
  * @author Jens Wiese <jens@howtrueisfalse.de>

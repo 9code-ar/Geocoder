@@ -8,10 +8,10 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
-use Geocoder\Exception\NoResult;
-use Geocoder\Exception\UnsupportedOperation;
+use _9Code\Geocoder\Exception\NoResult;
+use _9Code\Geocoder\Exception\UnsupportedOperation;
 use Http\Client\HttpClient;
 
 /**
@@ -170,7 +170,7 @@ class Nominatim extends AbstractHttpProvider implements LocaleAwareProvider
 
     private function getGeocodeEndpointUrl()
     {
-        return $this->rootUrl . '/search?q=%s&format=xml&addressdetails=1&limit=%d';
+        return $this->rootUrl . '/search?q=%s&format=xml&addressdetails=1&limit=%d&polygon_geojson=1';
     }
 
     private function getReverseEndpointUrl()

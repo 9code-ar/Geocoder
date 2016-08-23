@@ -8,11 +8,11 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Formatter;
+namespace _9Code\Geocoder\Formatter;
 
-use Geocoder\Model\Address;
-use Geocoder\Model\AdminLevel;
-use Geocoder\Model\AdminLevelCollection;
+use _9Code\Geocoder\Model\Address;
+use _9Code\Geocoder\Model\AdminLevel;
+use _9Code\Geocoder\Model\AdminLevelCollection;
 
 /**
  * @author William Durand <william.durand1@gmail.com>

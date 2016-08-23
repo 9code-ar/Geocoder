@@ -8,7 +8,7 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
 /**
  * @author Premi Giorgio <giosh94mhz@gmail.com>

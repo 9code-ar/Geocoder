@@ -8,12 +8,12 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Adapter;
+namespace _9Code\Geocoder\Adapter;
 
 use GeoIp2\ProviderInterface;
-use Geocoder\Exception\InvalidArgument;
-use Geocoder\Exception\UnsupportedOperation;
-use Geocoder\Provider\LocaleTrait;
+use _9Code\Geocoder\Exception\InvalidArgument;
+use _9Code\Geocoder\Exception\UnsupportedOperation;
+use _9Code\Geocoder\Provider\LocaleTrait;
 
 /**
  * @author Jens Wiese <jens@howtrueisfalse.de>

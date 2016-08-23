@@ -1,5 +1,5 @@
 {
-    "name": "willdurand/geocoder",
+    "name": "9code/geocoder",
     "type": "library",
     "description": "The almost missing Geocoder PHP 5.4 library.",
     "keywords": ["geocoder", "geocoding", "abstraction", "geoip"],
@@ -9,7 +9,12 @@
         {
             "name": "William Durand",
             "email": "william.durand1@gmail.com"
+        },
+        {
+            "name": "9Code",
+            "email": "info@9code.com.ar"
         }
+
     ],
     "require": {
         "php": "^5.5 || ^7.0",

@@ -1,8 +1,8 @@
 <?php
 
-namespace Geocoder\Model;
+namespace _9Code\Geocoder\Model;
 
-use Geocoder\Exception\CollectionIsEmpty;
+use _9Code\Geocoder\Exception\CollectionIsEmpty;
 
 final class AddressCollection implements \IteratorAggregate, \Countable
 {

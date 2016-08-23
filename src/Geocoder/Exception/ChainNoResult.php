@@ -8,7 +8,7 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Exception;
+namespace _9Code\Geocoder\Exception;
 
 /**
  * @author Ben Glassman <bglassman@gmail.com>

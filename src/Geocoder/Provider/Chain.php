@@ -8,10 +8,10 @@
  * @license    MIT License
  */
 
-namespace Geocoder\Provider;
+namespace _9Code\Geocoder\Provider;
 
-use Geocoder\Exception\ChainNoResult;
-use Geocoder\Exception\InvalidCredentials;
+use _9Code\Geocoder\Exception\ChainNoResult;
+use _9Code\Geocoder\Exception\InvalidCredentials;
 
 /**
  * @author Markus Bachmann <markus.bachmann@bachi.biz>

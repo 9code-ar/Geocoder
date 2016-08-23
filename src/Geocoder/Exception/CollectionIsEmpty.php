@@ -1,6 +1,6 @@
 <?php
 
-namespace Geocoder\Exception;
+namespace _9Code\Geocoder\Exception;
 
 class CollectionIsEmpty extends \RuntimeException implements Exception
 {
