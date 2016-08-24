@@ -8,9 +8,9 @@
  * @license    MIT License
  */
 
-namespace Geocoder;
+namespace _9Code\Geocoder;
 
-use Geocoder\Model\AddressCollection;
+use _9Code\Geocoder\Model\AddressCollection;
 
 /**
  * @author William Durand <william.durand1@gmail.com>
@@ -28,7 +28,7 @@ interface Geocoder
      * @param string $value
      *
      * @return AddressCollection
-     * @throws Geocoder\Exception\Exception
+     * @throws _9Code\Geocoder\Exception\Exception
      */
     public function geocode($value);
 
@@ -39,7 +39,7 @@ interface Geocoder
      * @param double $longitude
      *
      * @return AddressCollection
-     * @throws Geocoder\Exception\Exception
+     * @throws _9Code\Geocoder\Exception\Exception
      */
     public function reverse($latitude, $longitude);
 

@@ -8,11 +8,11 @@
  * @license    MIT License
  */
 
-namespace Geocoder;
+namespace _9Code\Geocoder;
 
-use Geocoder\Exception\ProviderNotRegistered;
-use Geocoder\Provider\Provider;
-use Geocoder\Model\AddressCollection;
+use _9Code\Geocoder\Exception\ProviderNotRegistered;
+use _9Code\Geocoder\Provider\Provider;
+use _9Code\Geocoder\Model\AddressCollection;
 
 /**
  * @author William Durand <william.durand1@gmail.com>

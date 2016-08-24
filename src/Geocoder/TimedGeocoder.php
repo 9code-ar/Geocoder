@@ -8,7 +8,7 @@
  * @license    MIT License
  */
 
-namespace Geocoder;
+namespace _9Code\Geocoder;
 
 use Symfony\Component\Stopwatch\Stopwatch;
 
